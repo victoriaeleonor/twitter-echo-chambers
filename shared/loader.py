@@ -16,35 +16,39 @@ def load_tweets(filename='tweets.csv'):
 
 # Muestra estadisticas basicas del dataset
 def basic_stats(df):
-    print("=== BASIC STATS ===\n")
-    
-    # Users
-    if 'user' in df.columns:
-        print(f"Unique Users:     {df['user'].nunique():,}")
-    
-    # Hashtags
-    if 'text' in df.columns:
-        hashtags = df['text'].dropna().str.findall(r'#\w+')
-        total_hashtags = hashtags.explode().dropna()
-        print(f"Unique Hashtags:     {total_hashtags.nunique():,}")
-        print(f"Top 10 hashtags:")
-        print(total_hashtags.value_counts().head(10).to_string())
-        print()
-    
+    """
+    Displays basic statistics about the dataset.
+    """
+    print("\n=== BASIC STATS ===\n")
+
+    # Unique users
+    print(f"Unique users:        {df['user'].nunique():,}")
+
+    # Hashtags (pre-extracted column)
+    hashtags = df['hashtags'].dropna()
+    hashtags_flat = hashtags.str.split(',').explode().str.strip().str.lower()
+    hashtags_flat = hashtags_flat[hashtags_flat != '']
+    print(f"Unique hashtags:     {hashtags_flat.nunique():,}")
+    print(f"\nTop 10 hashtags:")
+    print(hashtags_flat.value_counts().head(10).to_string())
+
     # Retweets
-    if 'retweeted_user' in df.columns:
-        rt = df['retweeted_user'].dropna()
-        print(f"\nRetweets totales:    {len(rt):,}")
-        print(f"Usuarios más retweteados:")
-        print(rt.value_counts().head(10).to_string())
-    
-    # Rango de fechas
-    for col in ['date', 'created_at', 'timestamp']:
-        if col in df.columns:
-            print(f"\nRango de fechas ({col}):")
-            print(f"  Desde: {df[col].min()}")
-            print(f"  Hasta: {df[col].max()}")
-            break
+    rt = df['retweetedUserID'].dropna()
+    print(f"\nTotal retweets:      {len(rt):,}")
+
+    # Mentions
+    mentions = df['mentionedUsers'].dropna()
+    print(f"Tweets with mentions:{len(mentions):,}")
+
+    # Replies
+    replies = df['in_reply_to_screen_name'].dropna()
+    print(f"Total replies:       {len(replies):,}")
+
+    # Date range
+    print(f"\nDate range:")
+    print(f"  From: {df['date'].min()}")
+    print(f"  To:   {df['date'].max()}")
+
 
 if __name__ == '__main__':
     df = load_tweets()
