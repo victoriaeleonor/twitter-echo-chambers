@@ -48,13 +48,13 @@ def basic_stats(df):
     # Hashtags - parsed correctly
     hashtags_flat = df['hashtags'].dropna().apply(parse_hashtags).explode()
     hashtags_flat = hashtags_flat[hashtags_flat != '']
-    print(f"Unique hashtags:      {hashtags_flat.nunique():,}")
+    print(f"Unique hashtags: {hashtags_flat.nunique():,}")
     print(f"\nTop 10 hashtags:")
     print(hashtags_flat.value_counts().head(10).to_string())
 
     # Replies
     replies = df['in_reply_to_screen_name'].dropna()
-    print(f"\nTotal replies:        {len(replies):,}")
+    print(f"\nTotal replies: {len(replies):,}")
 
     # Mentions - parsed correctly
     mentions_flat = df['mentionedUsers'].dropna().apply(parse_mentioned_users).explode()
