@@ -3,20 +3,13 @@ import networkx as nx
 import ast  # converts text to a pyhton dict 
 import sys
 import os
+import re
 
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 from shared.loader import load_tweets
 
 # extracts the username column
-import re
-
 def extract_username(raw):
-    """
-    Extracts the username from the 'user' column using regex.
-    The column contains a Python-like string with full user info.
-    ast.literal_eval() fails because it contains datetime objects,
-    so we extract the username field directly with regex instead.
-    """
     try:
         match = re.search(r"'username':\s*'([^']+)'", str(raw))
         if match:
