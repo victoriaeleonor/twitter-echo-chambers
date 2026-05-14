@@ -7,3 +7,4 @@ data/*.json
 data/*.zip
 data/*.gz
 .vscode
+lib/
