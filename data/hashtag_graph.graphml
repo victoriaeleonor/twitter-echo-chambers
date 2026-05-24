@@ -1,0 +1,5040 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="edge" attr.name="weight" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="maga" />
+    <node id="trump2024" />
+    <node id="trump" />
+    <node id="gazagenocide" />
+    <node id="biden" />
+    <node id="usa" />
+    <node id="seniorcaregiveradvice" />
+    <node id="seniorcaregiverburnout" />
+    <node id="seniorcaregivertips" />
+    <node id="joebiden" />
+    <node id="presidentialelection" />
+    <node id="foxnews" />
+    <node id="bonkers" />
+    <node id="politics" />
+    <node id="republican" />
+    <node id="hunter" />
+    <node id="democrat" />
+    <node id="liberal" />
+    <node id="southdakota" />
+    <node id="southdakotagop" />
+    <node id="votetrump2024" />
+    <node id="americafirst" />
+    <node id="hunterbiden" />
+    <node id="inflation" />
+    <node id="border" />
+    <node id="bitcoin" />
+    <node id="eth" />
+    <node id="crypto" />
+    <node id="trumpcult" />
+    <node id="voteblue" />
+    <node id="america" />
+    <node id="donaldtrump" />
+    <node id="senate" />
+    <node id="doj" />
+    <node id="republicans" />
+    <node id="garland" />
+    <node id="merrickgarland" />
+    <node id="congress" />
+    <node id="house" />
+    <node id="democrats" />
+    <node id="trumpmania" />
+    <node id="meme" />
+    <node id="2ndamendment" />
+    <node id="immigrationpolicy" />
+    <node id="isis" />
+    <node id="terrorism" />
+    <node id="fbi" />
+    <node id="2a" />
+    <node id="guns" />
+    <node id="medicare" />
+    <node id="trumporganization" />
+    <node id="whitehouse" />
+    <node id="etatsunis" />
+    <node id="biden_nuseirat_holocaust" />
+    <node id="israeliterrorists" />
+    <node id="gazastarving‌‌" />
+    <node id="شمال_غزة_يجوع" />
+    <node id="مجزره_النصيرات_امريكية" />
+    <node id="gop" />
+    <node id="tiktok" />
+    <node id="loganpaul" />
+    <node id="fjb" />
+    <node id="birddog" />
+    <node id="matrix" />
+    <node id="mememagic" />
+    <node id="gg33" />
+    <node id="vote" />
+    <node id="felon" />
+    <node id="trump2024tosaveamerica" />
+    <node id="fjbiden" />
+    <node id="trump2024nowmorethanever" />
+    <node id="freedom" />
+    <node id="trumpbestpresidentever" />
+    <node id="solana" />
+    <node id="coinbase" />
+    <node id="blinken" />
+    <node id="hamas" />
+    <node id="btc" />
+    <node id="nhsen" />
+    <node id="nhpolitics" />
+    <node id="newyork" />
+    <node id="toobigtorig" />
+    <node id="mepolitics" />
+    <node id="agenda47" />
+    <node id="truth" />
+    <node id="election" />
+    <node id="ukraine" />
+    <node id="rafah" />
+    <node id="gaza" />
+    <node id="election2024" />
+    <node id="biden2024" />
+    <node id="europe" />
+    <node id="government" />
+    <node id="thereidout" />
+    <node id="gqp" />
+    <node id="conservative" />
+    <node id="taliban" />
+    <node id="maga2024" />
+    <node id="newyorkcity" />
+    <node id="nypd" />
+    <node id="trumptrain" />
+    <node id="bidenharris2024" />
+    <node id="news" />
+    <node id="media" />
+    <node id="president" />
+    <node id="viralvideo" />
+    <node id="viralvideos" />
+    <node id="us" />
+    <node id="explore" />
+    <node id="explorepage" />
+    <node id="left" />
+    <node id="bidenadministration" />
+    <node id="reddawn" />
+    <node id="genx" />
+    <node id="swampthevote" />
+    <node id="unitedwestand" />
+    <node id="millennials" />
+    <node id="genz" />
+    <node id="共産党" />
+    <node id="washington" />
+    <node id="alito" />
+    <node id="electioninterference" />
+    <node id="日本労働組合総連合会" />
+    <node id="芳野会長" />
+    <node id="連合" />
+    <node id="uaｾﾞﾝｾﾝ" />
+    <node id="jam" />
+    <node id="芳野友子" />
+    <node id="自治労" />
+    <node id="蓮舫" />
+    <node id="freedonaldtrump" />
+    <node id="wethepeople" />
+    <node id="trumpsamerica" />
+    <node id="love" />
+    <node id="theconstitution" />
+    <node id="letsrockamerica" />
+    <node id="godblessamerica" />
+    <node id="presidentdonaldtrump" />
+    <node id="support" />
+    <node id="standwithtrump" />
+    <node id="trumpforce47" />
+    <node id="nhk" />
+    <node id="毎日新聞" />
+    <node id="fujitv" />
+    <node id="tvasahi" />
+    <node id="朝日新聞" />
+    <node id="ntv" />
+    <node id="日本経済新聞" />
+    <node id="tbs" />
+    <node id="産経新聞" />
+    <node id="読売新聞" />
+    <node id="israel" />
+    <node id="americans" />
+    <node id="liberals" />
+    <node id="lasvegas" />
+    <node id="borderobserver" />
+    <node id="cared" />
+    <node id="altcoins" />
+    <node id="magatron" />
+    <node id="memecoins" />
+    <node id="saveamerica" />
+    <node id="scotus" />
+    <node id="cryptocurrency" />
+    <node id="ethereum" />
+    <node id="abajoleybases" />
+    <node id="sinclair" />
+    <node id="china" />
+    <node id="cnn" />
+    <node id="ifbap" />
+    <node id="christian" />
+    <node id="criptomonedas" />
+    <node id="communist" />
+    <node id="vladimirputin" />
+    <node id="kgb" />
+    <node id="demvoice1" />
+    <node id="crime" />
+    <node id="bordercrisis" />
+    <node id="putin" />
+    <node id="russia" />
+    <node id="crack" />
+    <node id="cocaine" />
+    <node id="afghanistan" />
+    <node id="palestine" />
+    <node id="war" />
+    <node id="lawfare" />
+    <node id="libertarian" />
+    <node id="boycott24hourfitness" />
+    <node id="kevinspacey" />
+    <node id="lockhimup" />
+    <node id="trumptosaveamerica" />
+    <node id="bidencrimefamily" />
+    <node id="texas" />
+    <node id="newsbreak" />
+    <node id="bidenomics" />
+    <node id="votered" />
+    <node id="demsunited" />
+    <node id="resistanceunited" />
+    <node id="proudblue" />
+    <node id="goptraitors" />
+    <node id="cuba" />
+    <node id="catcoin" />
+    <node id="babydoge" />
+    <node id="volt" />
+    <node id="grok" />
+    <node id="saitama" />
+    <node id="freepalestine" />
+    <node id="9entertainawards2024xdmd" />
+    <node id="porsuppakarn" />
+    <node id="auautnp" />
+    <node id="breakingnews" />
+    <node id="worldnews" />
+    <node id="trumpcultwakeup" />
+    <node id="immigration" />
+    <node id="wwe" />
+    <node id="bidenmustgo" />
+    <node id="canal3comunicaciónintegral" />
+    <node id="elahuizote" />
+    <node id="canal3" />
+    <node id="coahuila" />
+    <node id="saltillo" />
+    <node id="g7" />
+    <node id="wiright" />
+    <node id="wiunion" />
+    <node id="wigov" />
+    <node id="wipolitics" />
+    <node id="fox" />
+    <node id="msnbc" />
+    <node id="trumpwasright" />
+    <node id="veterans" />
+    <node id="globalnews" />
+    <node id="topstories" />
+    <node id="labour" />
+    <node id="keirstarmer" />
+    <node id="cambma" />
+    <node id="lgbtq" />
+    <node id="zelensky" />
+    <node id="bidenbordercrisis" />
+    <node id="trump2024theonlychoice" />
+    <node id="trumpisadisgrace" />
+    <node id="marcorubio" />
+    <node id="vicepresident" />
+    <node id="elections" />
+    <node id="resist" />
+    <node id="j6" />
+    <node id="pepe" />
+    <node id="contempt" />
+    <node id="sol" />
+    <node id="wwg1wga" />
+    <node id="enddemocrattyranny" />
+    <node id="eeuu" />
+    <node id="trumpisfoundguilty" />
+    <node id="lauraloomer" />
+    <node id="warroom" />
+    <node id="trumpwon" />
+    <node id="bannonswarroom" />
+    <node id="asylum" />
+    <node id="policy" />
+    <node id="administration" />
+    <node id="headline" />
+    <node id="today" />
+    <node id="globalconflict" />
+    <node id="conflictupdates" />
+    <node id="samuelalito" />
+    <node id="supremecourtjustice" />
+    <node id="projectveritas" />
+    <node id="read" />
+    <node id="opinion" />
+    <node id="corruption" />
+    <node id="corporatecoup" />
+    <node id="dday" />
+    <node id="trumpcrimes" />
+    <node id="cryptomoonshots" />
+    <node id="guilty" />
+    <node id="wisconsin" />
+    <node id="nooneisabovethelaw" />
+    <node id="bidentrials" />
+    <node id="stopthefacism" />
+    <node id="obamastartedit" />
+    <node id="theirrules" />
+    <node id="defendtheconstitution" />
+    <node id="stopthetyranny" />
+    <node id="saveourrepublic" />
+    <node id="stevebannon" />
+    <node id="columbia_university" />
+    <node id="biden_war_criminal" />
+    <node id="aronbushnell" />
+    <node id="mtg" />
+    <node id="joebidens" />
+    <node id="registerdemocrats" />
+    <node id="voterizer" />
+    <node id="sanctuarycity" />
+    <node id="trumpisacriminal" />
+    <node id="nazimum" />
+    <node id="putinsbitch" />
+    <node id="steroidfreak" />
+    <node id="genocide" />
+    <node id="netanyahu" />
+    <node id="elonmusk" />
+    <node id="publishtheera" />
+    <node id="eraisonlyway" />
+    <node id="era" />
+    <node id="savereprorights" />
+    <node id="trumpsupporters" />
+    <node id="agmerrittgarland" />
+    <node id="attorneygeneral" />
+    <node id="thecareeconomy" />
+    <node id="urgent" />
+    <node id="conviction" />
+    <node id="nesara" />
+    <node id="gesara" />
+    <node id="greatreset" />
+    <node id="hijack" />
+    <node id="bankrupt" />
+    <node id="dividedwefall" />
+    <node id="political" />
+    <node id="reset" />
+    <node id="unbreakingamerica" />
+    <node id="liberalnonpartystatus" />
+    <node id="trudeaucorruption" />
+    <node id="liberalcomplicity" />
+    <node id="x" />
+    <node id="twitter" />
+    <node id="italy" />
+    <node id="ww3" />
+    <node id="dems" />
+    <node id="fucktrump" />
+    <node id="headlines" />
+    <node id="funnycrap" />
+    <node id="commonsense" />
+    <node id="trumpistherealpresident" />
+    <node id="dnc" />
+    <node id="chicago" />
+    <node id="rishisunak" />
+    <node id="unitedstates" />
+    <node id="yes" />
+    <node id="jillbiden" />
+    <node id="womenshealth" />
+    <node id="law" />
+    <node id="blue220house" />
+    <node id="blue60senate" />
+    <node id="blue2025whitehouse" />
+    <node id="losangeles" />
+    <node id="miami" />
+    <node id="australia" />
+    <node id="england" />
+    <node id="bidenistheworstpresidentinhistory" />
+    <node id="fnc" />
+    <node id="wapo" />
+    <node id="borderinvasion" />
+    <node id="nyt" />
+    <node id="presidentbiden" />
+    <node id="ku" />
+    <node id="nyu" />
+    <node id="peacenow" />
+    <node id="oxford" />
+    <node id="alleyesonrafah" />
+    <node id="csu" />
+    <node id="columbia" />
+    <node id="ucsd" />
+    <node id="harvard" />
+    <node id="uwmadison" />
+    <node id="duke" />
+    <node id="usc" />
+    <node id="mit" />
+    <node id="gwu" />
+    <node id="ucla" />
+    <node id="umass" />
+    <node id="criminals" />
+    <node id="accountability" />
+    <node id="phuckyes" />
+    <node id="stopthelie" />
+    <node id="gofuckyourself" />
+    <node id="impeach" />
+    <node id="history" />
+    <node id="notmypresident" />
+    <node id="partyoflincoln" />
+    <node id="arrogance" />
+    <node id="secede" />
+    <node id="hysteria" />
+    <node id="partyoftrump" />
+    <node id="arrest" />
+    <edge source="maga" target="trump2024">
+      <data key="d0">64</data>
+    </edge>
+    <edge source="maga" target="southdakotagop">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="maga" target="southdakota">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="maga" target="votetrump2024">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="maga" target="americafirst">
+      <data key="d0">13</data>
+    </edge>
+    <edge source="maga" target="trumpcult">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="usa">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="maga" target="america">
+      <data key="d0">11</data>
+    </edge>
+    <edge source="maga" target="trumpmania">
+      <data key="d0">30</data>
+    </edge>
+    <edge source="maga" target="meme">
+      <data key="d0">30</data>
+    </edge>
+    <edge source="maga" target="hunterbiden">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="maga" target="matrix">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="birddog">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="mememagic">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="gg33">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="eth">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="trump2024tosaveamerica">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="maga" target="trump">
+      <data key="d0">69</data>
+    </edge>
+    <edge source="maga" target="fjb">
+      <data key="d0">34</data>
+    </edge>
+    <edge source="maga" target="fjbiden">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="freedom">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="maga" target="gop">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="maga" target="medicare">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="freedonaldtrump">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="maga" target="wethepeople">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="maga" target="trumpsamerica">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="maga" target="love">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="maga" target="theconstitution">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="maga" target="letsrockamerica">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="maga" target="trumptrain">
+      <data key="d0">22</data>
+    </edge>
+    <edge source="maga" target="godblessamerica">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="maga" target="presidentdonaldtrump">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="maga" target="support">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="maga" target="standwithtrump">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="maga" target="trumpforce47">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="maga" target="2a">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="maga" target="magatron">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="maga" target="altcoins">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="maga" target="crypto">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="maga" target="solana">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="maga" target="memecoins">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="maga" target="saveamerica">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="biden">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="maga" target="republicans">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="maga" target="communist">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="vladimirputin">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="maga" target="kgb">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="joebiden">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="politics">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="maga" target="truth">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="maga" target="boycott24hourfitness">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="bitcoin">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="maga" target="kevinspacey">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="china">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="maga" target="trumptosaveamerica">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="maga" target="ukraine">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="maga" target="cnn">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="maga" target="foxnews">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="sinclair">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="israel">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="bidenomics">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="media">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="guns">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="wiunion">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="wiright">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="wigov">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="wipolitics">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="fox">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="maga" target="msnbc">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="maga" target="veterans">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="bidenbordercrisis">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="votered">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="trump2024theonlychoice">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="marcorubio">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="vicepresident">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="elections">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="maga" target="donaldtrump">
+      <data key="d0">13</data>
+    </edge>
+    <edge source="maga" target="newsbreak">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="j6">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="pepe">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="maga" target="wwg1wga">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="maga" target="tiktok">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="maga" target="enddemocrattyranny">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="scotus">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="maga" target="trumpisfoundguilty">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="lauraloomer">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="maga" target="trumpcultwakeup">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="maga" target="goptraitors">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="maga" target="trumpisadisgrace">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="maga" target="trumpcrimes">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="republican">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="maga" target="cryptomoonshots">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="conservative">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="maga" target="stevebannon">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="democrats">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="maga" target="mtg">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="maga" target="ifbap">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="maga" target="borderobserver">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="sanctuarycity">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="gqp">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="maga" target="trumpisacriminal">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="nazimum">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="putinsbitch">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="steroidfreak">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="elonmusk">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="bidenharris2024">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="trumpsupporters">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="lockhimup">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="x">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="twitter">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="commonsense">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="christian">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="maga" target="lawfare">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="maga" target="contempt">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="trumpistherealpresident">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="maga" target="liberals">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="putin">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga" target="alito">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump2024" target="trump">
+      <data key="d0">23</data>
+    </edge>
+    <edge source="trump2024" target="joebiden">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="trump2024" target="hunterbiden">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="trump2024" target="usa">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="trump2024" target="america">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="trump2024" target="republicans">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="trump2024" target="merrickgarland">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="trump2024" target="democrats">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="trump2024" target="tiktok">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="trump2024" target="fjb">
+      <data key="d0">25</data>
+    </edge>
+    <edge source="trump2024" target="trump2024tosaveamerica">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="trump2024" target="trump2024nowmorethanever">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="trump2024" target="toobigtorig">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="trump2024" target="maga2024">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="trump2024" target="biden">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="trump2024" target="saveamerica">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="trump2024" target="americafirst">
+      <data key="d0">13</data>
+    </edge>
+    <edge source="trump2024" target="ifbap">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="trump2024" target="2a">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="trump2024" target="truth">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="trump2024" target="boycott24hourfitness">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump2024" target="bitcoin">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump2024" target="kevinspacey">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump2024" target="china">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump2024" target="bidenomics">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump2024" target="votered">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="trump2024" target="bordercrisis">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump2024" target="trumpwasright">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="trump2024" target="trumpbestpresidentever">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="trump2024" target="trumptosaveamerica">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="trump2024" target="bidenbordercrisis">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump2024" target="trump2024theonlychoice">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="trump2024" target="enddemocrattyranny">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump2024" target="freedom">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump2024" target="scotus">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="trump2024" target="warroom">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump2024" target="trumpwon">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump2024" target="bannonswarroom">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump2024" target="gop">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump2024" target="bidencrimefamily">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump2024" target="bidentrials">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="trump2024" target="lawfare">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="trump2024" target="stopthefacism">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="trump2024" target="obamastartedit">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="trump2024" target="electioninterference">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="trump2024" target="theirrules">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="trump2024" target="defendtheconstitution">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="trump2024" target="stopthetyranny">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="trump2024" target="saveourrepublic">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="trump2024" target="donaldtrump">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="trump2024" target="joebidens">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="trump2024" target="nooneisabovethelaw">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="trump2024" target="news">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump2024" target="wwg1wga">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump2024" target="criminals">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump2024" target="accountability">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="politics">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="trump" target="biden">
+      <data key="d0">66</data>
+    </edge>
+    <edge source="trump" target="doj">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="republicans">
+      <data key="d0">13</data>
+    </edge>
+    <edge source="trump" target="merrickgarland">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="trump" target="gop">
+      <data key="d0">26</data>
+    </edge>
+    <edge source="trump" target="usa">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="trump" target="tiktok">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="trump" target="loganpaul">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="trump" target="trump2024tosaveamerica">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="trump" target="fjb">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="trump" target="america">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="trump" target="truth">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="trump" target="election">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="trump" target="ukraine">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="trump" target="joebiden">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="btc">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="trump" target="election2024">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="trump" target="bitcoin">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="trump" target="donaldtrump">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="trump" target="news">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="trump" target="coinbase">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="crypto">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="trump" target="democrats">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="trump" target="scotus">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="trump" target="americafirst">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="trump" target="criptomonedas">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="cryptocurrency">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="guns">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="lawfare">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="trump" target="libertarian">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="trump" target="2a">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="boycott24hourfitness">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="kevinspacey">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="china">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="trump" target="trumptosaveamerica">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="trump" target="vote">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="trump" target="newsbreak">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="solana">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="gaza">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="palestine">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="bidenbordercrisis">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="votered">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="maga2024">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="trump" target="saveamerica">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="trump" target="trump2024theonlychoice">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="j6">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="contempt">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="trumpisfoundguilty">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="lauraloomer">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="trumpcultwakeup">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="trump" target="goptraitors">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="trump" target="trumpisadisgrace">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="trump" target="asylum">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="government">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="policy">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="border">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="administration">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="media">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="msnbc">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="trump" target="trumpcrimes">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="republican">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="trump" target="conservative">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="trump" target="cnn">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="trump" target="stevebannon">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="trumpbestpresidentever">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="felon">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="trumpcult">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="israel">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="pepe">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="elonmusk">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="trumptrain">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="lockhimup">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="guilty">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="hunter">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="elections">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="lasvegas">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="ww3">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="russia">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="fucktrump">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="headlines">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="funnycrap">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="wwe">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="christian">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="trump" target="trumpistherealpresident">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="losangeles">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="texas">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="miami">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="newyork">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="australia">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="england">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="chicago">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="hunterbiden">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="ku">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="nyu">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="peacenow">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="oxford">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="alleyesonrafah">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="csu">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="columbia">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="ucsd">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="harvard">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="uwmadison">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="duke">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="usc">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="mit">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="gwu">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="ucla">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="umass">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="criminals">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="accountability">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="gazagenocide" target="biden">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="gazagenocide" target="israel">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="biden" target="usa">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="biden" target="politics">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="biden" target="republican">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="biden" target="hunter">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="biden" target="democrat">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="biden" target="congress">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="garland">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="biden" target="house">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="biden" target="etatsunis">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="hunterbiden">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="biden" target="bitcoin">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="biden" target="coinbase">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="biden" target="fjb">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="biden" target="election">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="biden" target="ukraine">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="biden" target="rafah">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="gaza">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="biden" target="whitehouse">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="government">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="biden" target="taliban">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="biden" target="joebiden">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="biden" target="bidenharris2024">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="news">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="biden" target="democrats">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="biden" target="media">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="crypto">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="biden" target="inflation">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="biden" target="washington">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="biden" target="israel">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="biden" target="gop">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="biden" target="criptomonedas">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="america">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="biden" target="election2024">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="biden" target="putin">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="russia">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="biden" target="love">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="biden" target="crack">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="cocaine">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="guns">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="afghanistan">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="palestine">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="biden" target="war">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="libertarian">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="us">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="biden" target="terrorism">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="vote">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="freepalestine">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="zelensky">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="contempt">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="biden" target="trumptrain">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="biden" target="eeuu">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="biden" target="asylum">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="biden" target="policy">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="border">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="administration">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="dday">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="corporatecoup">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="msnbc">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="biden" target="blinken">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="biden" target="republicans">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="biden" target="merrickgarland">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="biden" target="guilty">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="biden" target="president">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="biden" target="crime">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="biden" target="donaldtrump">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="biden" target="felon">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="biden" target="americans">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="bidenmustgo">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="biden" target="cuba">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="biden" target="hamas">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="biden" target="genocide">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="netanyahu">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="biden" target="publishtheera">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="lgbtq">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="biden" target="eraisonlyway">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="era">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="savereprorights">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="conviction">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="lasvegas">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="immigration">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="g7">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="biden" target="losangeles">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="texas">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="miami">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="newyork">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="australia">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="england">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="chicago">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="foxnews">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="conservative">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="ku">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="nyu">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="peacenow">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="oxford">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="alleyesonrafah">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="csu">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="columbia">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="ucsd">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="harvard">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="uwmadison">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="duke">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="usc">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="mit">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="gwu">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="ucla">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden" target="umass">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="usa" target="america">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="usa" target="gop">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="usa" target="joebiden">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="usa" target="trumpbestpresidentever">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="usa" target="etatsunis">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="usa" target="genz">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="usa" target="israel">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="usa" target="palestine">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="usa" target="gaza">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="usa" target="russia">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="usa" target="news">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="usa" target="freepalestine">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="usa" target="columbia_university">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="usa" target="biden_war_criminal">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="usa" target="aronbushnell">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="usa" target="democrats">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="usa" target="donaldtrump">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="usa" target="ww3">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="usa" target="dems">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="usa" target="republican">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="usa" target="conservative">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="seniorcaregiveradvice" target="seniorcaregiverburnout">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="seniorcaregiveradvice" target="seniorcaregivertips">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="seniorcaregiverburnout" target="seniorcaregivertips">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="joebiden" target="presidentialelection">
+      <data key="d0">13</data>
+    </edge>
+    <edge source="joebiden" target="foxnews">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="joebiden" target="bonkers">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="joebiden" target="hunterbiden">
+      <data key="d0">13</data>
+    </edge>
+    <edge source="joebiden" target="democrats">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="joebiden" target="donaldtrump">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="joebiden" target="biden2024">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="joebiden" target="news">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="joebiden" target="politics">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="joebiden" target="bidenadministration">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="joebiden" target="gop">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="joebiden" target="immigration">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="joebiden" target="wisconsin">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="joebiden" target="whitehouse">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="joebiden" target="attorneygeneral">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="joebiden" target="jillbiden">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="joebiden" target="presidentbiden">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="joebiden" target="g7">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="joebiden" target="italy">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="joebiden" target="ukraine">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="joebiden" target="gaza">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="joebiden" target="unitedstates">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="presidentialelection" target="foxnews">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="presidentialelection" target="bonkers">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="presidentialelection" target="donaldtrump">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="presidentialelection" target="hunterbiden">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="foxnews" target="bonkers">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="foxnews" target="cnn">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="foxnews" target="hunterbiden">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="politics" target="viralvideo">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="politics" target="republicans">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="politics" target="viralvideos">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="politics" target="democrat">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="politics" target="senate">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="politics" target="us">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="politics" target="donaldtrump">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="politics" target="explore">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="politics" target="news">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="politics" target="explorepage">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="politics" target="gop">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="politics" target="left">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="politics" target="election2024">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="politics" target="hunterbiden">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="republican" target="democrat">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="republican" target="liberal">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="republican" target="gop">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="republican" target="conservative">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="republican" target="nesara">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="republican" target="corruption">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="republican" target="gesara">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="republican" target="greatreset">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="republican" target="hijack">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="republican" target="bankrupt">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="republican" target="dividedwefall">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="republican" target="political">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="republican" target="reset">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="republican" target="unbreakingamerica">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="republican" target="donaldtrump">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="republican" target="america">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="hunter" target="guilty">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="hunter" target="felon">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="democrat" target="liberal">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="democrat" target="viralvideo">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="democrat" target="republicans">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="democrat" target="viralvideos">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="democrat" target="senate">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="democrat" target="us">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="democrat" target="explore">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="democrat" target="news">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="democrat" target="explorepage">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="democrat" target="gop">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="democrat" target="left">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="democrat" target="nesara">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="democrat" target="corruption">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="democrat" target="gesara">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="democrat" target="conservative">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="democrat" target="greatreset">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="democrat" target="hijack">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="democrat" target="bankrupt">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="democrat" target="dividedwefall">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="democrat" target="political">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="democrat" target="reset">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="democrat" target="unbreakingamerica">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="liberal" target="nesara">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="liberal" target="corruption">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="liberal" target="gesara">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="liberal" target="conservative">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="liberal" target="greatreset">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="liberal" target="hijack">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="liberal" target="bankrupt">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="liberal" target="dividedwefall">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="liberal" target="political">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="liberal" target="reset">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="liberal" target="unbreakingamerica">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="southdakota" target="southdakotagop">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="southdakota" target="votetrump2024">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="southdakota" target="americafirst">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="southdakotagop" target="votetrump2024">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="southdakotagop" target="americafirst">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="votetrump2024" target="americafirst">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="americafirst" target="saveamerica">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="americafirst" target="bordercrisis">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="americafirst" target="trump2024tosaveamerica">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="americafirst" target="maga2024">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="americafirst" target="bidencrimefamily">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="hunterbiden" target="donaldtrump">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="hunterbiden" target="whitehouse">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="hunterbiden" target="republicans">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="hunterbiden" target="joebidens">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="hunterbiden" target="nooneisabovethelaw">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="hunterbiden" target="merrickgarland">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="hunterbiden" target="jillbiden">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="hunterbiden" target="guilty">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="hunterbiden" target="gop">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="inflation" target="bidenomics">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="bitcoin" target="eth">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="bitcoin" target="crypto">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="bitcoin" target="coinbase">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="bitcoin" target="btc">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="bitcoin" target="cryptocurrency">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="bitcoin" target="ethereum">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="bitcoin" target="republicans">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="bitcoin" target="2a">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="bitcoin" target="truth">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="bitcoin" target="boycott24hourfitness">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="bitcoin" target="kevinspacey">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="bitcoin" target="china">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="eth" target="crypto">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="eth" target="matrix">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="eth" target="birddog">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="eth" target="mememagic">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="eth" target="gg33">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="crypto" target="coinbase">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="crypto" target="magatron">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="crypto" target="altcoins">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="crypto" target="solana">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="crypto" target="memecoins">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="crypto" target="cryptocurrency">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trumpcult" target="gop">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="voteblue" target="gop">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="voteblue" target="biden2024">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="america" target="gop">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="america" target="enddemocrattyranny">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="america" target="freedom">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="america" target="scotus">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="america" target="conservative">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="america" target="donaldtrump">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="donaldtrump" target="senate">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="donaldtrump" target="trumporganization">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="donaldtrump" target="whitehouse">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="donaldtrump" target="newyorkcity">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="donaldtrump" target="nypd">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="donaldtrump" target="felon">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="donaldtrump" target="republicans">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="donaldtrump" target="gop">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="donaldtrump" target="lasvegas">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="donaldtrump" target="loganpaul">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="donaldtrump" target="fox">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="donaldtrump" target="marcorubio">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="donaldtrump" target="vicepresident">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="donaldtrump" target="elections">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="donaldtrump" target="trumpisfoundguilty">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="donaldtrump" target="lauraloomer">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="donaldtrump" target="trumpcultwakeup">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="donaldtrump" target="goptraitors">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="donaldtrump" target="trumpisadisgrace">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="donaldtrump" target="trumpcrimes">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="donaldtrump" target="wisconsin">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="donaldtrump" target="trumpsupporters">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="donaldtrump" target="attorneygeneral">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="donaldtrump" target="conservative">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="senate" target="viralvideo">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="senate" target="republicans">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="senate" target="viralvideos">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="senate" target="us">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="senate" target="explore">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="senate" target="news">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="senate" target="explorepage">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="senate" target="gop">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="senate" target="left">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="doj" target="republicans">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="doj" target="nooneisabovethelaw">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="doj" target="agmerrittgarland">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="republicans" target="merrickgarland">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="republicans" target="gop">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="republicans" target="viralvideo">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="republicans" target="viralvideos">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="republicans" target="us">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="republicans" target="explore">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="republicans" target="news">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="republicans" target="explorepage">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="republicans" target="left">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="republicans" target="communist">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="republicans" target="vladimirputin">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="republicans" target="kgb">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="republicans" target="2a">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="republicans" target="truth">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="republicans" target="boycott24hourfitness">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="republicans" target="kevinspacey">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="republicans" target="china">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="republicans" target="contempt">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="republicans" target="cnn">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="republicans" target="democrats">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="republicans" target="msnbc">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="republicans" target="guilty">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="republicans" target="conviction">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="garland" target="congress">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="garland" target="house">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="garland" target="contempt">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="merrickgarland" target="gop">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="merrickgarland" target="contempt">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="merrickgarland" target="joebidens">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="merrickgarland" target="nooneisabovethelaw">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="congress" target="house">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="congress" target="gop">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="congress" target="washington">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="house" target="gop">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="house" target="contempt">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="democrats" target="media">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="democrats" target="americans">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="democrats" target="liberals">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="democrats" target="gop">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="democrats" target="msnbc">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="democrats" target="cnn">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="democrats" target="resist">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="democrats" target="impeach">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="democrats" target="history">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="democrats" target="notmypresident">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="democrats" target="partyoflincoln">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="democrats" target="arrogance">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="democrats" target="secede">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="democrats" target="hysteria">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="democrats" target="partyoftrump">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="democrats" target="arrest">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trumpmania" target="meme">
+      <data key="d0">30</data>
+    </edge>
+    <edge source="2ndamendment" target="2a">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="2ndamendment" target="guns">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="immigrationpolicy" target="isis">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="immigrationpolicy" target="terrorism">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="immigrationpolicy" target="fbi">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="isis" target="terrorism">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="isis" target="fbi">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="terrorism" target="fbi">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="2a" target="guns">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="2a" target="truth">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="2a" target="boycott24hourfitness">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="2a" target="kevinspacey">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="2a" target="china">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trumporganization" target="whitehouse">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="biden_nuseirat_holocaust" target="israeliterrorists">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="biden_nuseirat_holocaust" target="gazastarving‌‌">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="biden_nuseirat_holocaust" target="شمال_غزة_يجوع">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="biden_nuseirat_holocaust" target="مجزره_النصيرات_امريكية">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="israeliterrorists" target="gazastarving‌‌">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="israeliterrorists" target="شمال_غزة_يجوع">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="israeliterrorists" target="مجزره_النصيرات_امريكية">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="gazastarving‌‌" target="شمال_غزة_يجوع">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="gazastarving‌‌" target="مجزره_النصيرات_امريكية">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="شمال_غزة_يجوع" target="مجزره_النصيرات_امريكية">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="gop" target="thereidout">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="gop" target="gqp">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="gop" target="viralvideo">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="gop" target="viralvideos">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="gop" target="us">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="gop" target="explore">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="gop" target="news">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="gop" target="explorepage">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="gop" target="left">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="gop" target="scotus">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="gop" target="fox">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="gop" target="marcorubio">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="gop" target="vicepresident">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="gop" target="elections">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="gop" target="trumpisfoundguilty">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="gop" target="lauraloomer">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="gop" target="trumpcultwakeup">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="gop" target="goptraitors">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="gop" target="trumpisadisgrace">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="gop" target="trumpcrimes">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="gop" target="contempt">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="gop" target="lockhimup">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="gop" target="dems">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="gop" target="fucktrump">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="gop" target="headlines">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="gop" target="funnycrap">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="gop" target="washington">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="gop" target="resist">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="gop" target="impeach">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="gop" target="history">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="gop" target="notmypresident">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="gop" target="partyoflincoln">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="gop" target="arrogance">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="gop" target="secede">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="gop" target="hysteria">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="gop" target="partyoftrump">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="gop" target="arrest">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="tiktok" target="loganpaul">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="loganpaul" target="wwe">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="fjb" target="fjbiden">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="birddog" target="matrix">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="birddog" target="mememagic">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="birddog" target="gg33">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="matrix" target="mememagic">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="matrix" target="gg33">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="mememagic" target="gg33">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="felon" target="newyorkcity">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="felon" target="nypd">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="trump2024tosaveamerica" target="trump2024nowmorethanever">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump2024tosaveamerica" target="bidenbordercrisis">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump2024tosaveamerica" target="maga2024">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="trump2024tosaveamerica" target="saveamerica">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump2024tosaveamerica" target="trump2024theonlychoice">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="freedom" target="enddemocrattyranny">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="freedom" target="scotus">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trumpbestpresidentever" target="trumptosaveamerica">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="solana" target="magatron">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="solana" target="altcoins">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="solana" target="memecoins">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="solana" target="ethereum">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="solana" target="sol">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="solana" target="btc">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="blinken" target="hamas">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="hamas" target="israel">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="hamas" target="gaza">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="hamas" target="netanyahu">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="hamas" target="urgent">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="nhsen" target="nhpolitics">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="nhsen" target="mepolitics">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="nhpolitics" target="mepolitics">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="nhpolitics" target="cambma">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="newyork" target="losangeles">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="newyork" target="texas">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="newyork" target="miami">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="newyork" target="australia">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="newyork" target="england">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="newyork" target="chicago">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="toobigtorig" target="maga2024">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="mepolitics" target="cambma">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="agenda47" target="swampthevote">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="agenda47" target="reddawn">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="agenda47" target="genx">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="agenda47" target="cared">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="agenda47" target="unitedwestand">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="agenda47" target="millennials">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="agenda47" target="genz">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="truth" target="boycott24hourfitness">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="truth" target="kevinspacey">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="truth" target="china">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="truth" target="commonsense">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="election" target="news">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ukraine" target="israel">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ukraine" target="palestine">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ukraine" target="gaza">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="ukraine" target="russia">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="ukraine" target="zelensky">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ukraine" target="unitedstates">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="ukraine" target="presidentbiden">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ukraine" target="g7">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ukraine" target="italy">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="rafah" target="gaza">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="gaza" target="israel">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="gaza" target="palestine">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="gaza" target="russia">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="gaza" target="genocide">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="gaza" target="presidentbiden">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="gaza" target="g7">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="gaza" target="italy">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="gaza" target="unitedstates">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="biden2024" target="sinclair">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="europe" target="breakingnews">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="europe" target="worldnews">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="government" target="asylum">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="government" target="policy">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="government" target="administration">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="thereidout" target="gqp">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="conservative" target="nesara">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="conservative" target="corruption">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="conservative" target="gesara">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="conservative" target="greatreset">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="conservative" target="hijack">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="conservative" target="bankrupt">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="conservative" target="dividedwefall">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="conservative" target="political">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="conservative" target="reset">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="conservative" target="unbreakingamerica">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="conservative" target="rishisunak">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="conservative" target="keirstarmer">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="conservative" target="labour">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="taliban" target="afghanistan">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="maga2024" target="saveamerica">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="newyorkcity" target="nypd">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="trumptrain" target="freedonaldtrump">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="trumptrain" target="wethepeople">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="trumptrain" target="trumpsamerica">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="trumptrain" target="love">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="trumptrain" target="theconstitution">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="trumptrain" target="letsrockamerica">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="trumptrain" target="godblessamerica">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="trumptrain" target="presidentdonaldtrump">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="trumptrain" target="support">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="trumptrain" target="standwithtrump">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="trumptrain" target="trumpforce47">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="news" target="media">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="news" target="viralvideo">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="news" target="viralvideos">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="news" target="us">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="news" target="explore">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="news" target="explorepage">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="news" target="left">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="news" target="worldnews">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="news" target="fucktrump">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="news" target="headlines">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="news" target="funnycrap">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="media" target="msnbc">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="president" target="crime">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="viralvideo" target="viralvideos">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="viralvideo" target="us">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="viralvideo" target="explore">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="viralvideo" target="explorepage">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="viralvideo" target="left">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="viralvideos" target="us">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="viralvideos" target="explore">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="viralvideos" target="explorepage">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="viralvideos" target="left">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="us" target="explore">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="us" target="explorepage">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="us" target="left">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="explore" target="explorepage">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="explore" target="left">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="explorepage" target="left">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="left" target="supremecourtjustice">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="left" target="samuelalito">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="left" target="projectveritas">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="left" target="read">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="left" target="opinion">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="reddawn" target="genx">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="reddawn" target="swampthevote">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="reddawn" target="unitedwestand">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="reddawn" target="millennials">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="reddawn" target="genz">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="reddawn" target="cared">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="genx" target="swampthevote">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="genx" target="unitedwestand">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="genx" target="millennials">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="genx" target="genz">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="genx" target="cared">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="swampthevote" target="unitedwestand">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="swampthevote" target="millennials">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="swampthevote" target="genz">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="swampthevote" target="cared">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="unitedwestand" target="millennials">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="unitedwestand" target="genz">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="unitedwestand" target="cared">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="millennials" target="genz">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="millennials" target="cared">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="genz" target="cared">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="共産党" target="日本労働組合総連合会">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="共産党" target="芳野会長">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="共産党" target="連合">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="共産党" target="uaｾﾞﾝｾﾝ">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="共産党" target="jam">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="共産党" target="芳野友子">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="共産党" target="自治労">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="共産党" target="蓮舫">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="alito" target="scotus">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="electioninterference" target="bidentrials">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="electioninterference" target="lawfare">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="electioninterference" target="stopthefacism">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="electioninterference" target="obamastartedit">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="electioninterference" target="trumpwasright">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="electioninterference" target="theirrules">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="electioninterference" target="defendtheconstitution">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="electioninterference" target="stopthetyranny">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="electioninterference" target="saveourrepublic">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="日本労働組合総連合会" target="芳野会長">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="日本労働組合総連合会" target="連合">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="日本労働組合総連合会" target="uaｾﾞﾝｾﾝ">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="日本労働組合総連合会" target="jam">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="日本労働組合総連合会" target="芳野友子">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="日本労働組合総連合会" target="自治労">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="日本労働組合総連合会" target="蓮舫">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="日本労働組合総連合会" target="毎日新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="日本労働組合総連合会" target="nhk">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="日本労働組合総連合会" target="fujitv">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="日本労働組合総連合会" target="tvasahi">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="日本労働組合総連合会" target="朝日新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="日本労働組合総連合会" target="ntv">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="日本労働組合総連合会" target="日本経済新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="日本労働組合総連合会" target="tbs">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="日本労働組合総連合会" target="産経新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="日本労働組合総連合会" target="読売新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="芳野会長" target="連合">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="芳野会長" target="uaｾﾞﾝｾﾝ">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="芳野会長" target="jam">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="芳野会長" target="芳野友子">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="芳野会長" target="自治労">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="芳野会長" target="蓮舫">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="芳野会長" target="毎日新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="芳野会長" target="nhk">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="芳野会長" target="fujitv">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="芳野会長" target="tvasahi">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="芳野会長" target="朝日新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="芳野会長" target="ntv">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="芳野会長" target="日本経済新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="芳野会長" target="tbs">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="芳野会長" target="産経新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="芳野会長" target="読売新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="連合" target="uaｾﾞﾝｾﾝ">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="連合" target="jam">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="連合" target="芳野友子">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="連合" target="自治労">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="連合" target="蓮舫">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="連合" target="毎日新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="連合" target="nhk">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="連合" target="fujitv">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="連合" target="tvasahi">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="連合" target="朝日新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="連合" target="ntv">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="連合" target="日本経済新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="連合" target="tbs">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="連合" target="産経新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="連合" target="読売新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="uaｾﾞﾝｾﾝ" target="jam">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="uaｾﾞﾝｾﾝ" target="芳野友子">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="uaｾﾞﾝｾﾝ" target="自治労">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="uaｾﾞﾝｾﾝ" target="蓮舫">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="uaｾﾞﾝｾﾝ" target="毎日新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="uaｾﾞﾝｾﾝ" target="nhk">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="uaｾﾞﾝｾﾝ" target="fujitv">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="uaｾﾞﾝｾﾝ" target="tvasahi">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="uaｾﾞﾝｾﾝ" target="朝日新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="uaｾﾞﾝｾﾝ" target="ntv">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="uaｾﾞﾝｾﾝ" target="日本経済新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="uaｾﾞﾝｾﾝ" target="tbs">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="uaｾﾞﾝｾﾝ" target="産経新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="uaｾﾞﾝｾﾝ" target="読売新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jam" target="芳野友子">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="jam" target="自治労">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="jam" target="蓮舫">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jam" target="毎日新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jam" target="nhk">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jam" target="fujitv">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jam" target="tvasahi">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jam" target="朝日新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jam" target="ntv">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jam" target="日本経済新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jam" target="tbs">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jam" target="産経新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jam" target="読売新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="芳野友子" target="自治労">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="芳野友子" target="蓮舫">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="芳野友子" target="毎日新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="芳野友子" target="nhk">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="芳野友子" target="fujitv">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="芳野友子" target="tvasahi">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="芳野友子" target="朝日新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="芳野友子" target="ntv">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="芳野友子" target="日本経済新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="芳野友子" target="tbs">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="芳野友子" target="産経新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="芳野友子" target="読売新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="自治労" target="蓮舫">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="自治労" target="毎日新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="自治労" target="nhk">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="自治労" target="fujitv">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="自治労" target="tvasahi">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="自治労" target="朝日新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="自治労" target="ntv">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="自治労" target="日本経済新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="自治労" target="tbs">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="自治労" target="産経新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="自治労" target="読売新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="freedonaldtrump" target="wethepeople">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="freedonaldtrump" target="trumpsamerica">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="freedonaldtrump" target="love">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="freedonaldtrump" target="theconstitution">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="freedonaldtrump" target="letsrockamerica">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="freedonaldtrump" target="godblessamerica">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="freedonaldtrump" target="presidentdonaldtrump">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="freedonaldtrump" target="support">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="freedonaldtrump" target="standwithtrump">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="freedonaldtrump" target="trumpforce47">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="wethepeople" target="trumpsamerica">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="wethepeople" target="love">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="wethepeople" target="theconstitution">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="wethepeople" target="letsrockamerica">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="wethepeople" target="godblessamerica">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="wethepeople" target="presidentdonaldtrump">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="wethepeople" target="support">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="wethepeople" target="standwithtrump">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="wethepeople" target="trumpforce47">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="trumpsamerica" target="love">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="trumpsamerica" target="theconstitution">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="trumpsamerica" target="letsrockamerica">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="trumpsamerica" target="godblessamerica">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="trumpsamerica" target="presidentdonaldtrump">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="trumpsamerica" target="support">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="trumpsamerica" target="standwithtrump">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="trumpsamerica" target="trumpforce47">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="love" target="theconstitution">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="love" target="letsrockamerica">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="love" target="godblessamerica">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="love" target="presidentdonaldtrump">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="love" target="support">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="love" target="standwithtrump">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="love" target="trumpforce47">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="theconstitution" target="letsrockamerica">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="theconstitution" target="godblessamerica">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="theconstitution" target="presidentdonaldtrump">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="theconstitution" target="support">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="theconstitution" target="standwithtrump">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="theconstitution" target="trumpforce47">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="letsrockamerica" target="godblessamerica">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="letsrockamerica" target="presidentdonaldtrump">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="letsrockamerica" target="support">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="letsrockamerica" target="standwithtrump">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="letsrockamerica" target="trumpforce47">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="godblessamerica" target="presidentdonaldtrump">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="godblessamerica" target="support">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="godblessamerica" target="standwithtrump">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="godblessamerica" target="trumpforce47">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="presidentdonaldtrump" target="support">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="presidentdonaldtrump" target="standwithtrump">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="presidentdonaldtrump" target="trumpforce47">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="support" target="standwithtrump">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="support" target="trumpforce47">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="standwithtrump" target="trumpforce47">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="nhk" target="毎日新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="nhk" target="fujitv">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="nhk" target="tvasahi">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="nhk" target="朝日新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="nhk" target="ntv">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="nhk" target="日本経済新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="nhk" target="tbs">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="nhk" target="産経新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="nhk" target="読売新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="毎日新聞" target="fujitv">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="毎日新聞" target="tvasahi">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="毎日新聞" target="朝日新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="毎日新聞" target="ntv">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="毎日新聞" target="日本経済新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="毎日新聞" target="tbs">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="毎日新聞" target="産経新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="毎日新聞" target="読売新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="fujitv" target="tvasahi">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="fujitv" target="朝日新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="fujitv" target="ntv">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="fujitv" target="日本経済新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="fujitv" target="tbs">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="fujitv" target="産経新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="fujitv" target="読売新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="tvasahi" target="朝日新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="tvasahi" target="ntv">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="tvasahi" target="日本経済新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="tvasahi" target="tbs">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="tvasahi" target="産経新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="tvasahi" target="読売新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="朝日新聞" target="ntv">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="朝日新聞" target="日本経済新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="朝日新聞" target="tbs">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="朝日新聞" target="産経新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="朝日新聞" target="読売新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ntv" target="日本経済新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ntv" target="tbs">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ntv" target="産経新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ntv" target="読売新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="日本経済新聞" target="tbs">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="日本経済新聞" target="産経新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="日本経済新聞" target="読売新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="tbs" target="産経新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="tbs" target="読売新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="産経新聞" target="読売新聞">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="israel" target="palestine">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="israel" target="russia">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="israel" target="genocide">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="borderobserver" target="sanctuarycity">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="altcoins" target="magatron">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="altcoins" target="memecoins">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="altcoins" target="cryptomoonshots">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="magatron" target="memecoins">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="memecoins" target="cryptomoonshots">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="scotus" target="enddemocrattyranny">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ethereum" target="sol">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="china" target="boycott24hourfitness">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="china" target="kevinspacey">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="china" target="russia">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="cnn" target="msnbc">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="communist" target="vladimirputin">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="communist" target="kgb">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="vladimirputin" target="kgb">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="demvoice1" target="demsunited">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="demvoice1" target="resistanceunited">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="demvoice1" target="proudblue">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="putin" target="russia">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="russia" target="palestine">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="russia" target="war">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="russia" target="cuba">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="russia" target="ww3">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="crack" target="cocaine">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="palestine" target="genocide">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="lawfare" target="bidentrials">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="lawfare" target="stopthefacism">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="lawfare" target="obamastartedit">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="lawfare" target="trumpwasright">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="lawfare" target="theirrules">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="lawfare" target="defendtheconstitution">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="lawfare" target="stopthetyranny">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="lawfare" target="saveourrepublic">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="boycott24hourfitness" target="kevinspacey">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trumptosaveamerica" target="trumpistherealpresident">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="trumptosaveamerica" target="bidenmustgo">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="texas" target="losangeles">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="texas" target="miami">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="texas" target="australia">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="texas" target="england">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="texas" target="chicago">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="bidenomics" target="dnc">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="bidenomics" target="fnc">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="bidenomics" target="wapo">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="bidenomics" target="borderinvasion">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="bidenomics" target="nyt">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="demsunited" target="resistanceunited">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="demsunited" target="proudblue">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="resistanceunited" target="proudblue">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="goptraitors" target="trumpisfoundguilty">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="goptraitors" target="lauraloomer">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="goptraitors" target="trumpcultwakeup">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="goptraitors" target="trumpisadisgrace">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="goptraitors" target="trumpcrimes">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="catcoin" target="babydoge">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="catcoin" target="volt">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="catcoin" target="grok">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="catcoin" target="saitama">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="babydoge" target="volt">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="babydoge" target="grok">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="babydoge" target="saitama">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="volt" target="grok">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="volt" target="saitama">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="grok" target="saitama">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="freepalestine" target="columbia_university">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="freepalestine" target="biden_war_criminal">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="freepalestine" target="aronbushnell">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="9entertainawards2024xdmd" target="porsuppakarn">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="9entertainawards2024xdmd" target="auautnp">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="porsuppakarn" target="auautnp">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="breakingnews" target="worldnews">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="breakingnews" target="globalnews">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="breakingnews" target="topstories">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="breakingnews" target="today">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="breakingnews" target="headline">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="breakingnews" target="globalconflict">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="breakingnews" target="conflictupdates">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="worldnews" target="globalnews">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="worldnews" target="topstories">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="worldnews" target="today">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="worldnews" target="headline">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="worldnews" target="globalconflict">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="worldnews" target="conflictupdates">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trumpcultwakeup" target="trumpisfoundguilty">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trumpcultwakeup" target="lauraloomer">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trumpcultwakeup" target="trumpisadisgrace">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="trumpcultwakeup" target="trumpcrimes">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="immigration" target="asylum">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="canal3comunicaciónintegral" target="elahuizote">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="canal3comunicaciónintegral" target="canal3">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="canal3comunicaciónintegral" target="coahuila">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="canal3comunicaciónintegral" target="saltillo">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="elahuizote" target="canal3">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="elahuizote" target="coahuila">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="elahuizote" target="saltillo">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="canal3" target="coahuila">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="canal3" target="saltillo">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="coahuila" target="saltillo">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="g7" target="presidentbiden">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="g7" target="italy">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="g7" target="unitedstates">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="wiright" target="wiunion">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="wiright" target="wigov">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="wiright" target="wipolitics">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="wiunion" target="wigov">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="wiunion" target="wipolitics">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="wigov" target="wipolitics">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="fox" target="marcorubio">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="fox" target="vicepresident">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="fox" target="elections">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trumpwasright" target="bidentrials">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="trumpwasright" target="stopthefacism">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="trumpwasright" target="obamastartedit">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="trumpwasright" target="theirrules">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="trumpwasright" target="defendtheconstitution">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="trumpwasright" target="stopthetyranny">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="trumpwasright" target="saveourrepublic">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="veterans" target="womenshealth">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="veterans" target="law">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="globalnews" target="topstories">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="globalnews" target="today">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="globalnews" target="headline">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="globalnews" target="globalconflict">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="globalnews" target="conflictupdates">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="labour" target="keirstarmer">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="labour" target="rishisunak">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="keirstarmer" target="rishisunak">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="lgbtq" target="publishtheera">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="lgbtq" target="eraisonlyway">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="lgbtq" target="era">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="lgbtq" target="savereprorights">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trumpisadisgrace" target="trumpisfoundguilty">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trumpisadisgrace" target="lauraloomer">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trumpisadisgrace" target="trumpcrimes">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="marcorubio" target="vicepresident">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="marcorubio" target="elections">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="vicepresident" target="elections">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="resist" target="impeach">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="resist" target="history">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="resist" target="notmypresident">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="resist" target="partyoflincoln">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="resist" target="arrogance">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="resist" target="secede">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="resist" target="hysteria">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="resist" target="partyoftrump">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="resist" target="arrest">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trumpisfoundguilty" target="lauraloomer">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="warroom" target="trumpwon">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="warroom" target="bannonswarroom">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trumpwon" target="bannonswarroom">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="asylum" target="policy">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="asylum" target="administration">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="policy" target="administration">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="headline" target="today">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="headline" target="globalconflict">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="headline" target="conflictupdates">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="today" target="globalconflict">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="today" target="conflictupdates">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="globalconflict" target="conflictupdates">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="samuelalito" target="supremecourtjustice">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="samuelalito" target="projectveritas">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="samuelalito" target="read">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="samuelalito" target="opinion">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="supremecourtjustice" target="projectveritas">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="supremecourtjustice" target="read">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="supremecourtjustice" target="opinion">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="projectveritas" target="read">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="projectveritas" target="opinion">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="read" target="opinion">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="corruption" target="nesara">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="corruption" target="gesara">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="corruption" target="greatreset">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="corruption" target="hijack">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="corruption" target="bankrupt">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="corruption" target="dividedwefall">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="corruption" target="political">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="corruption" target="reset">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="corruption" target="unbreakingamerica">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="corporatecoup" target="dday">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="guilty" target="conviction">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="nooneisabovethelaw" target="agmerrittgarland">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="nooneisabovethelaw" target="joebidens">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="bidentrials" target="stopthefacism">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="bidentrials" target="obamastartedit">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="bidentrials" target="theirrules">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="bidentrials" target="defendtheconstitution">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="bidentrials" target="stopthetyranny">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="bidentrials" target="saveourrepublic">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="stopthefacism" target="obamastartedit">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="stopthefacism" target="theirrules">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="stopthefacism" target="defendtheconstitution">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="stopthefacism" target="stopthetyranny">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="stopthefacism" target="saveourrepublic">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="obamastartedit" target="theirrules">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="obamastartedit" target="defendtheconstitution">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="obamastartedit" target="stopthetyranny">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="obamastartedit" target="saveourrepublic">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="theirrules" target="defendtheconstitution">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="theirrules" target="stopthetyranny">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="theirrules" target="saveourrepublic">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="defendtheconstitution" target="stopthetyranny">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="defendtheconstitution" target="saveourrepublic">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="stopthetyranny" target="saveourrepublic">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="columbia_university" target="biden_war_criminal">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="columbia_university" target="aronbushnell">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="biden_war_criminal" target="aronbushnell">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="mtg" target="nazimum">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="mtg" target="putinsbitch">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="mtg" target="steroidfreak">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="registerdemocrats" target="voterizer">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="registerdemocrats" target="thecareeconomy">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="voterizer" target="thecareeconomy">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="nazimum" target="putinsbitch">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="nazimum" target="steroidfreak">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="putinsbitch" target="steroidfreak">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="netanyahu" target="urgent">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="publishtheera" target="eraisonlyway">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="publishtheera" target="era">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="publishtheera" target="savereprorights">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="eraisonlyway" target="era">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="eraisonlyway" target="savereprorights">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="era" target="savereprorights">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="nesara" target="gesara">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="nesara" target="greatreset">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="nesara" target="hijack">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="nesara" target="bankrupt">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="nesara" target="dividedwefall">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="nesara" target="political">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="nesara" target="reset">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="nesara" target="unbreakingamerica">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="gesara" target="greatreset">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="gesara" target="hijack">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="gesara" target="bankrupt">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="gesara" target="dividedwefall">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="gesara" target="political">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="gesara" target="reset">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="gesara" target="unbreakingamerica">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="greatreset" target="hijack">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="greatreset" target="bankrupt">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="greatreset" target="dividedwefall">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="greatreset" target="political">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="greatreset" target="reset">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="greatreset" target="unbreakingamerica">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="hijack" target="bankrupt">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="hijack" target="dividedwefall">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="hijack" target="political">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="hijack" target="reset">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="hijack" target="unbreakingamerica">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="bankrupt" target="dividedwefall">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="bankrupt" target="political">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="bankrupt" target="reset">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="bankrupt" target="unbreakingamerica">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="dividedwefall" target="political">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="dividedwefall" target="reset">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="dividedwefall" target="unbreakingamerica">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="political" target="reset">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="political" target="unbreakingamerica">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="reset" target="unbreakingamerica">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="liberalnonpartystatus" target="trudeaucorruption">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="liberalnonpartystatus" target="liberalcomplicity">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trudeaucorruption" target="liberalcomplicity">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="x" target="twitter">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="italy" target="presidentbiden">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="italy" target="unitedstates">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="fucktrump" target="headlines">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="fucktrump" target="funnycrap">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="headlines" target="funnycrap">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="dnc" target="bidenistheworstpresidentinhistory">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="dnc" target="fnc">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="dnc" target="wapo">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="dnc" target="borderinvasion">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="dnc" target="nyt">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="chicago" target="losangeles">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="chicago" target="miami">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="chicago" target="australia">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="chicago" target="england">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="unitedstates" target="presidentbiden">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="yes" target="stopthelie">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="yes" target="gofuckyourself">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="womenshealth" target="law">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="blue220house" target="blue60senate">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="blue220house" target="blue2025whitehouse">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="blue60senate" target="blue2025whitehouse">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="losangeles" target="miami">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="losangeles" target="australia">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="losangeles" target="england">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="miami" target="australia">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="miami" target="england">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="australia" target="england">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="bidenistheworstpresidentinhistory" target="fnc">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="bidenistheworstpresidentinhistory" target="wapo">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="bidenistheworstpresidentinhistory" target="borderinvasion">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="bidenistheworstpresidentinhistory" target="nyt">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="fnc" target="wapo">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="fnc" target="borderinvasion">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="fnc" target="nyt">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="wapo" target="borderinvasion">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="wapo" target="nyt">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="borderinvasion" target="nyt">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="ku" target="nyu">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ku" target="peacenow">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ku" target="oxford">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ku" target="alleyesonrafah">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ku" target="csu">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ku" target="columbia">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ku" target="ucsd">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ku" target="harvard">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ku" target="uwmadison">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ku" target="duke">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ku" target="usc">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ku" target="mit">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ku" target="gwu">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ku" target="ucla">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ku" target="umass">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="nyu" target="peacenow">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="nyu" target="oxford">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="nyu" target="alleyesonrafah">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="nyu" target="csu">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="nyu" target="columbia">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="nyu" target="ucsd">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="nyu" target="harvard">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="nyu" target="uwmadison">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="nyu" target="duke">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="nyu" target="usc">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="nyu" target="mit">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="nyu" target="gwu">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="nyu" target="ucla">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="nyu" target="umass">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="peacenow" target="oxford">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="peacenow" target="alleyesonrafah">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="peacenow" target="csu">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="peacenow" target="columbia">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="peacenow" target="ucsd">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="peacenow" target="harvard">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="peacenow" target="uwmadison">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="peacenow" target="duke">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="peacenow" target="usc">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="peacenow" target="mit">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="peacenow" target="gwu">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="peacenow" target="ucla">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="peacenow" target="umass">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="oxford" target="alleyesonrafah">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="oxford" target="csu">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="oxford" target="columbia">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="oxford" target="ucsd">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="oxford" target="harvard">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="oxford" target="uwmadison">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="oxford" target="duke">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="oxford" target="usc">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="oxford" target="mit">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="oxford" target="gwu">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="oxford" target="ucla">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="oxford" target="umass">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="alleyesonrafah" target="csu">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="alleyesonrafah" target="columbia">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="alleyesonrafah" target="ucsd">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="alleyesonrafah" target="harvard">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="alleyesonrafah" target="uwmadison">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="alleyesonrafah" target="duke">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="alleyesonrafah" target="usc">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="alleyesonrafah" target="mit">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="alleyesonrafah" target="gwu">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="alleyesonrafah" target="ucla">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="alleyesonrafah" target="umass">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="csu" target="columbia">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="csu" target="ucsd">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="csu" target="harvard">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="csu" target="uwmadison">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="csu" target="duke">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="csu" target="usc">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="csu" target="mit">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="csu" target="gwu">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="csu" target="ucla">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="csu" target="umass">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="columbia" target="ucsd">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="columbia" target="harvard">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="columbia" target="uwmadison">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="columbia" target="duke">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="columbia" target="usc">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="columbia" target="mit">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="columbia" target="gwu">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="columbia" target="ucla">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="columbia" target="umass">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ucsd" target="harvard">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ucsd" target="uwmadison">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ucsd" target="duke">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ucsd" target="usc">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ucsd" target="mit">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ucsd" target="gwu">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ucsd" target="ucla">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ucsd" target="umass">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="harvard" target="uwmadison">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="harvard" target="duke">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="harvard" target="usc">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="harvard" target="mit">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="harvard" target="gwu">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="harvard" target="ucla">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="harvard" target="umass">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="uwmadison" target="duke">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="uwmadison" target="usc">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="uwmadison" target="mit">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="uwmadison" target="gwu">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="uwmadison" target="ucla">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="uwmadison" target="umass">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="duke" target="usc">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="duke" target="mit">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="duke" target="gwu">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="duke" target="ucla">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="duke" target="umass">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="usc" target="mit">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="usc" target="gwu">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="usc" target="ucla">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="usc" target="umass">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="mit" target="gwu">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="mit" target="ucla">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="mit" target="umass">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="gwu" target="ucla">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="gwu" target="umass">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ucla" target="umass">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="criminals" target="accountability">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="phuckyes" target="stopthelie">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="phuckyes" target="gofuckyourself">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="stopthelie" target="gofuckyourself">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="impeach" target="history">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="impeach" target="notmypresident">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="impeach" target="partyoflincoln">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="impeach" target="arrogance">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="impeach" target="secede">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="impeach" target="hysteria">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="impeach" target="partyoftrump">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="impeach" target="arrest">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="history" target="notmypresident">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="history" target="partyoflincoln">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="history" target="arrogance">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="history" target="secede">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="history" target="hysteria">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="history" target="partyoftrump">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="history" target="arrest">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="notmypresident" target="partyoflincoln">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="notmypresident" target="arrogance">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="notmypresident" target="secede">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="notmypresident" target="hysteria">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="notmypresident" target="partyoftrump">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="notmypresident" target="arrest">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="partyoflincoln" target="arrogance">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="partyoflincoln" target="secede">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="partyoflincoln" target="hysteria">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="partyoflincoln" target="partyoftrump">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="partyoflincoln" target="arrest">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="arrogance" target="secede">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="arrogance" target="hysteria">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="arrogance" target="partyoftrump">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="arrogance" target="arrest">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="secede" target="hysteria">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="secede" target="partyoftrump">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="secede" target="arrest">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="hysteria" target="partyoftrump">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="hysteria" target="arrest">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="partyoftrump" target="arrest">
+      <data key="d0">2</data>
+    </edge>
+  </graph>
+</graphml>
